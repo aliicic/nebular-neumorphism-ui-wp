@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEI,cAFU,CAEV,KAAK,CAFT,cAAc,CAEJ,OAAO,AAAA,CACT,OAAO,CAAE,YAAY,CACxB",
+    "sources": [
+        "../scss/sing-post.scss"
+    ],
+    "names": [],
+    "file": "sing-post.min.css"
+}
